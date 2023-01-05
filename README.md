@@ -13,5 +13,7 @@ isi dari kodingan diatas memuat tugas yaitu :
 a. membuat sebuah dictionary data_kehadiran dengan key adalah NIM mahasiswa dan value adalah jumlah kehadiran mahasiswa. Gunakan tipe data terstruktur ini untuk proses pada fungsi yang diminta di bawah ini.
 b. membuat fungsi report yang digunakan untuk menampilkan NIM-NIM mahasiswa yang diperbolehkan mengikuti ujian dan yang tidak diperbolehkan. Jumlah kehadiran peserta ujian haruslah tidak kurang dari 75%.
 c. membuat fungsi top yang digunakan untuk menampilkan NIM-NIM mahasiswa yang paling malas menghadiri perkuliahan.
-d. Buatlah main program yang digunakan untuk menampilkan dictionary dan memanggil fungsi yang dibuat.
+d. membuat main program yang digunakan untuk menampilkan dictionary dan memanggil fungsi yang dibuat.
+
+2. berisi tugas besar Mata Kuliah Pemodelan Basis Data semester 2. Tentang implentasi sql dengan tema berupa sistem keberangkatan kereta api
 
